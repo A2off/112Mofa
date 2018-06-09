@@ -1,0 +1,473 @@
+[14:27:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:27:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:27:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:27:55] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[14:27:55] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_171, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_171
+[14:27:55] [main/INFO] [FML]: Searching F:\Hzz\Games\Ser12.2-180602\server\.\mods for mods
+[14:27:55] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in [神秘基础学前置]DummyCoreUnofficial-2.4.112.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:27:55] [main/WARN] [FML]: The coremod DummyCore.ASM.DCLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:27:55] [main/WARN] [FML]: The coremod DCLoadingPlugin (DummyCore.ASM.DCLoadingPlugin) is not signed!
+[14:27:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:27:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:27:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:27:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:27:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:27:56] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:27:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:27:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:27:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:27:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:27:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:27:57] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[14:28:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[14:28:01] [Server thread/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
+[14:28:01] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:28:01] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[14:28:01] [Server thread/INFO] [FML]: Searching F:\Hzz\Games\Ser12.2-180602\server\.\mods for mods
+[14:28:02] [Server thread/WARN] [FML]: Mod epicsiegemod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 13.160
+[14:28:02] [Server thread/INFO] [FML]: Forge Mod Loader has identified 15 mods to load
+[14:28:02] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[14:28:02] [Server thread/WARN] [FML]: Missing English translation for epicsiegemod: assets/epicsiegemod/lang/en_us.lang
+[14:28:02] [Server thread/WARN] [FML]: Missing English translation for dummycore: assets/dummycore/lang/en_us.lang
+[14:28:03] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, dmonsters, epicsiegemod, twilightforest, thaumcraft, baubles, thaumicbases, dummycore, evilcraft, evilcraftcompat, cyclopscore, tumbleweed] at CLIENT
+[14:28:03] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, dmonsters, epicsiegemod, twilightforest, thaumcraft, baubles, thaumicbases, dummycore, evilcraft, evilcraftcompat, cyclopscore, tumbleweed] at SERVER
+[14:28:05] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[14:28:05] [Server thread/INFO] [FML]: Found 1380 ObjectHolder annotations
+[14:28:05] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[14:28:05] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[14:28:05] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[14:28:05] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `firefly`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cicada`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `moonworm`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `naga_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lich_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hydra_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `smoker`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `popping_jet`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flame_jet`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_builder`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_reverter`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trophy`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tower_boss_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ghast_trap_inactive`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ghast_trap_active`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `carminite_reactor_active`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `knight_phantom_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `snow_queen_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cinder_furnace`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `minoshroom_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `alpha_yeti_spawner`, expected `twilightforest`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:06] [Server thread/INFO] [twilightforest]: twilightforest has loaded compatibility for mod Baubles.
+[14:28:06] [Server thread/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Chisel.
+[14:28:06] [Server thread/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Just Enough Items.
+[14:28:06] [Server thread/INFO] [twilightforest]: twilightforest has skipped compatibility for mod Tinkers' Construct.
+[14:28:06] [Server thread/INFO] [twilightforest]: twilightforest has loaded compatibility for mod Thaumcraft.
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: java.lang.ClassCastException: Cannot cast net.minecraftforge.registries.NamespacedWrapper to [Lnet.minecraft.enchantment.Enchantment;
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at java.lang.Class.cast(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at DummyCore.Utils.MiscUtils.enchantmentList(MiscUtils.java:880)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.rumaruka.tb.utils.TBConfig.load(TBConfig.java:12)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at DummyCore.Core.Core.loadConfigForMod(Core.java:183)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at DummyCore.Core.Core.registerModAbsolute(Core.java:134)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at DummyCore.Core.Core.registerModAbsolute(Core.java:115)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.rumaruka.tb.core.TBCore.preInit(TBCore.java:68)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:627)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:627)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:332)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[14:28:06] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[14:28:07] [Server thread/INFO] [STDERR]: [DummyCore.Utils.MiscUtils:enchantmentList:882]: 	at java.lang.Thread.run(Unknown Source)
+[14:28:08] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `veined_scribing_tools`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:09] [Server thread/INFO] [FML]: Applying holder lookups
+[14:28:09] [Server thread/INFO] [FML]: Holder lookups applied
+[14:28:09] [Server thread/INFO] [FML]: Applying holder lookups
+[14:28:09] [Server thread/INFO] [FML]: Holder lookups applied
+[14:28:09] [Server thread/INFO] [EvilCraft]: 1344 possible Broom base combinations are ready for flying!
+[14:28:09] [Server thread/INFO] [EvilCraft]: 18 Broom modifiers can be applied!
+[14:28:09] [Server thread/INFO] [FML]: Applying holder lookups
+[14:28:09] [Server thread/INFO] [FML]: Holder lookups applied
+[14:28:09] [Server thread/INFO] [FML]: Applying holder lookups
+[14:28:09] [Server thread/INFO] [FML]: Holder lookups applied
+[14:28:09] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:28:09] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:28:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[14:28:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[14:28:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[14:28:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.1.140:61234
+[14:28:10] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[14:28:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:28:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[14:28:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:28:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `entangled_chalice`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `entangled_chalice_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `display_stand`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `deadbush`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:11] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[14:28:11] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[14:28:11] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[14:28:11] [Server thread/INFO] [FML]: Applying holder lookups
+[14:28:11] [Server thread/INFO] [FML]: Holder lookups applied
+[14:28:12] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldcobble`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldcobblemossy`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldgravel`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldbrick`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldlapis`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldiron`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decooldgold`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.decoolddiamond`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.smb`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tb.smbreturn`, expected `thaumicbases`. This could be a intended override, but in most cases indicates a broken mod.
+[14:28:13] [Server thread/INFO] [Cyclops Core]: Cyclops Core is up-to-date!
+[14:28:13] [Server thread/INFO] [EvilCraft]: EvilCraft is up-to-date!
+[14:28:13] [Server thread/INFO] [EvilCraft]: Registered packet handler.
+[14:28:13] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:28:13] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:28:13] [Server thread/WARN] [FML]: No types have been added to Biome evilcraft:biome_degraded, types have been assigned on a best-effort guess: [PLAINS, WET]
+[14:28:13] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[14:28:13] [Server thread/INFO] [THAUMCRAFT]: Loaded 1 research entries from thaumcraft:research/eldritch
+[14:28:13] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/basics
+[14:28:13] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/auromancy
+[14:28:13] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[14:28:13] [Server thread/INFO] [THAUMCRAFT]: Loaded 19 research entries from thaumcraft:research/artifice
+[14:28:13] [Server thread/INFO] [THAUMCRAFT]: Loaded 16 research entries from thaumcraft:research/infusion
+[14:28:13] [Server thread/INFO] [THAUMCRAFT]: Loaded 28 research entries from thaumcraft:research/golemancy
+[14:28:13] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'blood' for a fluid converter config.
+[14:28:13] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'lifeessence' for a fluid converter config.
+[14:28:13] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'hell_blood' for a fluid converter config.
+[14:28:13] [Server thread/INFO] [EvilCraft]: Skipped adding entity by name 'intangible:soul' to the spirit blacklist, because it could not be found.
+[14:28:14] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 15 mods
+[14:28:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[14:28:14] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[14:28:14] [Server thread/INFO] [FML]: Applying holder lookups
+[14:28:14] [Server thread/INFO] [FML]: Holder lookups applied
+[14:28:14] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[14:28:15] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table dmonsters:zombiechicken
+[14:28:15] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 536 advancements
+[14:28:15] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[14:28:15] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[14:28:15] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[14:28:15] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[14:28:15] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[14:28:15] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[14:28:15] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[14:28:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[14:28:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 1%
+[14:28:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[14:28:17] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[14:28:17] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: UP_TO_DATE Target: null
+[14:28:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 35%
+[14:28:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
+[14:28:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.624s)! For help, type "help" or "?"
+[14:28:19] [Thread-9/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[14:28:19] [Thread-10/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[14:28:19] [Thread-12/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[14:28:19] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[14:28:19] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[14:28:19] [Server thread/INFO] [FML]: Unloading dimension 7
+[14:28:19] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[14:28:19] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:28:19] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[14:28:19] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:28:21] [Thread-9/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[14:28:21] [Thread-10/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[14:28:21] [Thread-11/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[14:45:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2093ms behind, skipping 41 tick(s)
+[14:45:43] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[14:45:43] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[14:45:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:45:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Azoff[/192.168.1.140:56174] logged in with entity id 282 at (226.66785484053858, 11.0, 96.69999998807907)
+[14:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e joined the game§r
+[14:45:50] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3656ms behind, skipping 73 tick(s)
+[14:47:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Azoff lost connection: Disconnected
+[14:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e left the game§r
+[14:47:04] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[14:47:36] [Netty Server IO #5/INFO] [FML]: Client protocol version 2
+[14:47:36] [Netty Server IO #5/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[14:47:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:47:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Azoff[/163.125.44.168:56215] logged in with entity id 893 at (224.3923493592547, 10.0, 96.69999998807907)
+[14:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e joined the game§r
+[14:47:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Azoff lost connection: Disconnected
+[14:47:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e left the game§r
+[14:47:53] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[14:56:20] [Netty Server IO #0/INFO] [FML]: Client protocol version 2
+[14:56:20] [Netty Server IO #0/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[14:56:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[14:56:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Azoff[/192.168.1.140:56286] logged in with entity id 1199 at (223.69999998807907, 9.875, 95.59611616136237)
+[14:56:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e joined the game§r
+[14:57:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Azoff lost connection: Disconnected
+[14:57:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e left the game§r
+[14:57:17] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[15:06:59] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
+[15:06:59] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[15:06:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:06:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Azoff[/163.125.44.168:56432] logged in with entity id 2040 at (223.30000001192093, 10.0, 94.64415089349849)
+[15:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e joined the game§r
+[15:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <§rAzoff§r> §r1§r
+[15:07:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUnknown command. Try /help for a list of commands§r
+[15:07:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUnknown command. Try /help for a list of commands§r
+[15:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUnknown command. Try /help for a list of commands§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §2--- Showing help page §r§21§r§2 of §r§211§r§2 (/help <page>) ---§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /advancement <grant|revoke|test> <player>§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ban <name> [reason ...]§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ban-ip <address|name> [reason ...]§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /banlist [ips|players]§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /baubles <action> [<player> [<params>]]§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /blockdata <x> <y> <z> <dataTag>§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clear [player] [item] [data] [maxCount] [dataTag]§r
+[15:09:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §aTip: Use the <tab> key while typing a command to auto-complete the command or its arguments§r
+[15:10:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Azoff lost connection: Disconnected
+[15:10:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e left the game§r
+[15:10:24] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[15:19:51] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[15:19:51] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[15:19:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:19:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: BDD[/123.65.248.86:30793] logged in with entity id 3980 at (56.47282981036781, 96.0, 18.56201252705617)
+[15:19:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eBDD§r§e joined the game§r
+[15:26:12] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[15:26:12] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2707,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[15:26:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:26:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: flower_name[/183.54.43.193:3051] logged in with entity id 12578 at (-603.0105284038758, 15.23152379758701, -642.3000000119209)
+[15:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eflower_name§r§e joined the game§r
+[15:40:13] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[15:40:13] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[15:40:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BDD moved too quickly! -55.575730539686845,-3.0,-30.894494407133593
+[15:40:15] [Thread-20/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[15:40:58] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[15:40:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:40:59] [Thread-20/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[15:41:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: BDD lost connection: Disconnected
+[15:41:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eBDD§r§e left the game§r
+[15:41:23] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[15:41:27] [Netty Server IO #5/INFO] [FML]: Client protocol version 2
+[15:41:27] [Netty Server IO #5/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[15:41:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:41:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: BDD[/123.65.248.86:35493] logged in with entity id 54981 at (-682.6883332032079, 100.0, -562.3000000119209)
+[15:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eBDD§r§e joined the game§r
+[15:47:08] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
+[15:47:08] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[15:47:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:47:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Azoff[/163.125.44.168:57391] logged in with entity id 63510 at (223.30000001192093, 10.0, 92.55212761038746)
+[15:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e joined the game§r
+[15:47:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Azoff lost connection: Disconnected
+[15:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e left the game§r
+[15:47:29] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[15:48:02] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[15:48:02] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[15:48:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:48:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Azoff[/163.125.44.168:57423] logged in with entity id 65334 at (223.49873657103623, 10.0, 94.67944850412752)
+[15:48:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e joined the game§r
+[15:48:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Azoff lost connection: Disconnected
+[15:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e left the game§r
+[15:48:11] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[16:22:22] [Netty Server IO #6/INFO] [FML]: Client protocol version 2
+[16:22:22] [Netty Server IO #6/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[16:22:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:22:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: La_sun[/113.87.18.47:23698] logged in with entity id 124044 at (58.376703756088915, 71.02111589598555, 38.487500011920964)
+[16:22:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eLa_sun§r§e joined the game§r
+[16:22:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: flower_name lost connection: Disconnected
+[16:22:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eflower_name§r§e left the game§r
+[16:22:58] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[16:24:17] [Netty Server IO #0/INFO] [FML]: Client protocol version 2
+[16:24:17] [Netty Server IO #0/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2707,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[16:24:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:24:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: flower_name[/183.54.43.193:3691] logged in with entity id 129032 at (-388.2533063020731, 11.0, -584.6999999880791)
+[16:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eflower_name§r§e joined the game§r
+[16:24:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[16:24:18] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[16:24:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: La_sun§r has made the advancement §r§a[§r§aWe Need to Go Deeper§r§a]§r
+[16:24:19] [Thread-21/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[16:26:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: flower_name§r was blown up by §rCreeper§r
+[16:26:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: La_sun moved too quickly! 54.57733114203941,3.0,30.888048859760705
+[16:26:35] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[16:26:36] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:26:37] [Thread-21/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[16:26:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: flower_name moved too quickly! 0.0,-12.708162068455417,0.0
+[16:27:19] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[16:27:19] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[16:27:20] [Thread-22/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[16:27:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: La_sun moved too quickly! -55.2379823293211,-3.0,-30.80000001192093
+[16:30:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2288ms behind, skipping 45 tick(s)
+[16:32:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: flower_name moved too quickly! -598.1665171882271,34.0,-489.39999997615814
+[16:32:13] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[16:32:14] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:32:14] [Thread-22/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[16:32:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: La_sun§r has made the advancement §r§a[§r§aSweet dreams§r§a]§r
+[16:32:44] [Netty Server IO #5/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_171]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_171]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_171]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_171]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_171]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[PooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_171]
+[16:32:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: BDD lost connection: Internal Exception: java.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+[16:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eBDD§r§e left the game§r
+[16:32:44] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[16:32:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: flower_name lost connection: Disconnected
+[16:32:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eflower_name§r§e left the game§r
+[16:32:57] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[16:33:26] [Netty Server IO #7/INFO] [FML]: Client protocol version 2
+[16:33:26] [Netty Server IO #7/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2707,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[16:33:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:33:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: flower_name[/183.54.43.193:3823] logged in with entity id 147493 at (-681.9252425321735, 101.0, -556.1051369462676)
+[16:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eflower_name§r§e joined the game§r
+[16:33:27] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[16:33:27] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[16:33:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:33:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: BDD[/123.65.248.86:46697] logged in with entity id 147581 at (-681.5564832933227, 101.0, -558.5218927878974)
+[16:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eBDD§r§e joined the game§r
+[16:33:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[16:33:48] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[16:33:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BDD moved too quickly! 597.744865511496,-34.0,488.4023207368982
+[16:33:49] [Thread-23/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[16:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: La_sun§r has made the advancement §r§a[§r§aAcquire Hardware§r§a]§r
+[16:34:20] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[16:34:21] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:34:21] [Thread-23/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[16:35:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: La_sun§r has made the advancement §r§a[§r§aSuit Up§r§a]§r
+[16:35:31] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[16:35:31] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[16:35:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BDD moved too quickly! 597.9074860527704,-34.0,487.3249003416031
+[16:35:32] [Thread-24/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[16:36:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BDD moved too quickly! 55.23854772128557,3.0,30.87202392183886
+[16:36:56] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[16:36:57] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:36:58] [Thread-24/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[16:38:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: La_sun§r has made the advancement §r§a[§r§aStone Age§r§a]§r
+[16:40:19] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[16:40:19] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[16:40:24] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4333ms behind, skipping 86 tick(s)
+[16:40:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: BDD moved too quickly! -1.718920378462883,1.1767592750642422,-9.836011892411044
+[16:40:24] [Thread-25/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[16:40:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: La_sun moved too quickly! 111.0958012272165,-65.5,-6.569299116612683
+[16:42:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5799ms behind, skipping 115 tick(s)
+[16:42:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3938ms behind, skipping 78 tick(s)
+[16:44:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4284ms behind, skipping 85 tick(s)
+[16:45:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3047ms behind, skipping 60 tick(s)
+[16:45:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3558ms behind, skipping 71 tick(s)
+[16:45:27] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-17, -48] in dimension 7 (twilight_forest) while populating chunk [-16, -47], causing cascading worldgen lag.
+[16:45:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:45:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3071ms behind, skipping 61 tick(s)
+[16:46:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2088ms behind, skipping 41 tick(s)
+[16:49:08] [Server thread/INFO] [twilightforest]: Hill 1 @ -552 32 -200
+[16:54:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: BDD lost connection: Disconnected
+[16:54:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eBDD§r§e left the game§r
+[16:54:44] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[16:55:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)
+[16:56:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2063ms behind, skipping 41 tick(s)
+[16:56:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2039ms behind, skipping 40 tick(s)
+[16:57:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: La_sun lost connection: Disconnected
+[16:57:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eLa_sun§r§e left the game§r
+[16:57:02] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[16:57:05] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[16:57:06] [Server thread/INFO] [FML]: Unloading dimension 7
+[16:57:07] [Thread-25/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[16:58:01] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1640f2a5)
+[16:58:01] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 7
+[16:58:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3328ms behind, skipping 66 tick(s)
+[16:58:04] [Thread-26/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[16:58:37] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[16:58:38] [Server thread/INFO] [FML]: Unloading dimension 7
+[16:58:39] [Thread-26/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[17:39:44] [Server thread/INFO] [STDOUT]: [thaumcraft.common.lib.research.ScanSky:onSuccess:83]: CEL_52_Moon3
+[17:39:44] [Server thread/INFO] [STDOUT]: [thaumcraft.common.lib.research.ScanSky:onSuccess:83]: CEL_52_Moon3
+[17:39:45] [Server thread/INFO] [STDOUT]: [thaumcraft.common.lib.research.ScanSky:onSuccess:83]: CEL_52_Moon3
+[17:39:55] [Server thread/INFO] [STDOUT]: [thaumcraft.common.lib.research.ScanSky:onSuccess:83]: CEL_52_Moon3
+[17:45:18] [Server thread/INFO] [STDOUT]: [thaumcraft.common.lib.research.ScanSky:onSuccess:83]: CEL_53_Moon3
+[17:45:19] [Server thread/INFO] [STDOUT]: [thaumcraft.common.lib.research.ScanSky:onSuccess:83]: CEL_53_Moon3
+[17:45:19] [Server thread/INFO] [STDOUT]: [thaumcraft.common.lib.research.ScanSky:onSuccess:83]: CEL_53_Moon3
+[17:59:45] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[17:59:45] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 21 mods : minecraft@1.12.2,evilcraft@0.10.58,cyclopscore@0.11.6,dummycore@2.4.112.3.,FML@8.0.99.99,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,baubles@1.5.2,customskinloader@14.8,foamfix@0.9.9.1-1.12.2,jei@4.8.5.147,thaumicbases@3.0.085.30b,dmonsters@1.7,thaumcraft@6.1.BETA13,forge@14.23.4.2705,evilcraftcompat@1.0.0,twilightforest@3.7.424,thaumicjei@1.2.1,mcp@9.42,epicsiegemod@13.160,tumbleweed@1.11-0.4.5
+[17:59:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:59:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Azoff[/163.125.44.168:60384] logged in with entity id 302952 at (223.49873657103623, 10.0, 94.67944850412752)
+[17:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e joined the game§r
+[18:01:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Azoff lost connection: Disconnected
+[18:01:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eAzoff§r§e left the game§r
+[18:01:05] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[18:08:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: flower_name§r was corrupted by Taint whilst fighting §rGiant Taint Seed§r
+[18:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: flower_name§r was slain by §rGiant Taint Seed§r
+[18:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: flower_name§r was corrupted by Taint whilst fighting §rGiant Taint Seed§r
+[18:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: flower_name§r was corrupted by Taint whilst fighting §rGiant Taint Seed§r
+[18:09:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: flower_name§r was corrupted by Taint§r
+[18:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: flower_name§r was corrupted by Taint whilst fighting §rGiant Taint Seed§r
+[18:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §cUnknown command. Try /help for a list of commands§r
+[18:30:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: flower_name§r was killed by §rWitch§r using magic§r
+[18:31:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: flower_name lost connection: Disconnected
+[18:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: §eflower_name§r§e left the game§r
+[18:31:06] [Server thread/WARN] [twilightforest]: Mod was keeping bauble items in reserve for player %s but they logged out! Items are being dropped.
+[18:38:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server§r
+[18:38:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:38:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:38:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:38:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[18:38:16] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[18:38:16] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:38:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:38:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:38:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:38:17] [Thread-12/WARN] [THAUMCRAFT]: No auras found!
+[18:38:17] [Thread-12/INFO] [THAUMCRAFT]: Stopping aura thread for dim 0

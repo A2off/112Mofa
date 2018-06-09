@@ -1,0 +1,68 @@
+[21:23:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:23:01] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:23:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:23:01] [main/INFO] [FML]: Forge Mod Loader version 14.23.3.2655 for Minecraft 1.12.2 loading
+[21:23:01] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_65, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_65
+[21:23:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:23:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:23:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:23:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:23:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:23:02] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[21:23:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:23:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:23:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:23:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:23:03] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[21:23:06] [Server thread/INFO] [FML]: MinecraftForge v14.23.3.2655 Initialized
+[21:23:06] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+java.io.IOException: ¾ä±úÎÞÐ§¡£
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_65]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_65]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_65]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_65]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_65]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_65]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_65]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_65]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_65]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_65]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_65]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[21:23:06] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[21:23:06] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[21:23:06] [Server thread/INFO] [FML]: Config directory created successfully
+[21:23:06] [Server thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
+[21:23:06] [Server thread/INFO] [FML]: Searching E:\Game\MC\server\Ser12.2-180602\mods for mods
+[21:23:07] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[21:23:07] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[21:23:07] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[21:23:07] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[21:23:08] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[21:23:08] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[21:23:08] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[21:23:08] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[21:23:08] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[21:23:08] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:23:08] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:08] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:08] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:08] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:08] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:08] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:08] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:08] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:08] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:23:08] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[21:23:08] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
+[21:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
+[21:23:08] [Server thread/WARN] [net.minecraft.server.ServerEula]: Failed to load eula.txt
+[21:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[21:23:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:23:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:23:08] [Server thread/WARN] [FML]: Can't revert to frozen GameData state without freezing first.
+[21:23:08] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[21:23:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:23:08] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
