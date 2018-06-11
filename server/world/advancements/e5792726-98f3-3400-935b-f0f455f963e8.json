@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2018-06-10 14:53:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-06-05 23:27:12 +0800"
@@ -364,6 +370,8 @@
       "cooked_porkchop": "2018-06-04 22:53:45 +0800",
       "cooked_mutton": "2018-06-04 22:55:31 +0800",
       "cooked_beef": "2018-06-05 22:24:03 +0800",
+      "baked_potato": "2018-06-10 14:07:25 +0800",
+      "apple": "2018-06-10 18:58:10 +0800",
       "cooked_cod": "2018-06-06 21:21:18 +0800",
       "raw_salmon": "2018-06-06 21:04:14 +0800",
       "bread": "2018-06-04 23:17:51 +0800",
@@ -406,6 +414,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2018-06-04 23:12:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-06-10 14:01:49 +0800"
     },
     "done": true
   },
@@ -553,6 +567,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2018-06-10 18:39:58 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2018-06-04 23:05:26 +0800"
@@ -689,6 +709,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2018-06-04 23:05:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-06-10 15:44:51 +0800"
     },
     "done": true
   },
@@ -848,6 +874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2018-06-10 14:53:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-06-05 23:25:31 +0800"
@@ -860,6 +892,7 @@
       "zombie_villager": "2018-06-04 22:54:26 +0800",
       "slime": "2018-06-05 22:12:07 +0800",
       "skeleton": "2018-06-04 23:03:12 +0800",
+      "blaze": "2018-06-10 13:58:36 +0800",
       "zombie": "2018-06-04 23:09:12 +0800",
       "spider": "2018-06-06 23:24:34 +0800",
       "creeper": "2018-06-06 23:26:52 +0800"
@@ -881,6 +914,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-06-06 21:37:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-06-10 14:08:32 +0800"
     },
     "done": true
   },
@@ -1052,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2018-06-10 13:58:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-06-05 21:43:54 +0800"
@@ -1124,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-06-10 13:57:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2018-06-04 23:12:10 +0800"
@@ -1175,6 +1226,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2018-06-05 21:44:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2018-06-10 14:19:10 +0800"
     },
     "done": true
   },
@@ -1259,6 +1316,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2018-06-05 23:25:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2018-06-10 14:53:10 +0800"
     },
     "done": true
   },
@@ -1412,6 +1475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2018-06-10 13:58:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-06-04 23:46:44 +0800"
@@ -1448,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-06-10 14:55:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie_villager": "2018-06-04 22:54:26 +0800"
@@ -1466,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-06-10 13:58:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2018-06-04 23:20:47 +0800"
@@ -1475,6 +1556,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2018-06-04 23:25:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-06-10 14:08:32 +0800"
     },
     "done": true
   },
@@ -1491,8 +1578,11 @@
       "swampland": "2018-06-05 21:42:07 +0800",
       "deep_ocean": "2018-06-05 22:20:00 +0800",
       "beaches": "2018-06-05 22:28:44 +0800",
+      "extreme_hills_with_trees": "2018-06-10 14:24:16 +0800",
       "forest_hills": "2018-06-04 22:37:14 +0800",
       "plains": "2018-06-04 22:32:30 +0800",
+      "taiga": "2018-06-10 14:37:15 +0800",
+      "birch_forest_hills": "2018-06-10 14:30:38 +0800",
       "ocean": "2018-06-05 22:15:37 +0800",
       "extreme_hills": "2018-06-07 20:48:40 +0800",
       "roofed_forest": "2018-06-04 22:40:13 +0800",
@@ -1686,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2018-06-10 18:39:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2018-06-05 22:25:42 +0800"
@@ -1707,6 +1803,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2018-06-04 22:34:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2018-06-10 14:53:08 +0800"
     },
     "done": true
   },
@@ -1761,6 +1863,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-06-04 22:34:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-06-10 14:08:32 +0800"
     },
     "done": true
   },
